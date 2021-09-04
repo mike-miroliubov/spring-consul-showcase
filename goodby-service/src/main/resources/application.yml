@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: good-by
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
